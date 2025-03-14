@@ -1,0 +1,148 @@
+﻿body {
+  background-color: #F2DBD5;
+  font-family: 'Manrope', sans-serif;
+}
+.square {
+  margin-right: 200px;
+  margin-top: 60px;
+  background-color: #f0f0f0;
+}
+.square2 {
+  margin-top: 60px;
+  background-color: #f0f0f0;
+}
+.carousel-item img {
+  height: 520px;
+}
+.lead mb-4 {
+  font-size: 25px;
+}
+.text-body-emphasis {
+  font-size: 30px;
+}
+h5 {
+  color: #686868;
+}
+h6 {
+  color: #000000;
+}
+h7 {
+  color: #000000;
+  font-size: 35px;
+}
+.header {
+  margin-top: 30px;
+}
+.card-text {
+  font-size: 14px;
+}
+.carousel-caption h5, .carousel-caption p {
+  color: #333; 
+  background: rgba(255, 255, 255, 0.5); 
+  margin: 0; 
+  padding: 10px; 
+}
+.owl-carousel img {
+  max-width: 100%; 
+}
+.left-image {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 400px;
+  height: 400px;
+}
+.right-image {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 350px;
+  height: 350px;
+}
+img.featurette-image {
+  border-radius: 30px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
+}
+h1 {
+  font-size: 30px;
+  text-align: center;
+  color: #000000;
+  margin-top: 20px;
+}
+.custom-bg {
+  background-color: #f0f0f0;
+}
+.col-md-6 {
+  background-color: #f7efed;
+  border-radius: 20px;
+}
+h8 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  margin-left: 30px;
+}
+.icon-block i {
+  font-size: 60px;
+  color: black;
+  background: #f4e3df;
+  padding: 10px;
+  border-radius: 10%;
+  box-shadow: 0 0 20px rgba(0,0,0,0.3);
+}
+.custom-bg-1 {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 5%;
+  margin-right: 60px;
+  float: left;
+  width: 30%;
+}
+
+.custom-bg-2 {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 5%;
+  margin-right: 60px;
+  float: left;
+  width: 30%;
+}
+
+.custom-bg-3 {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 5%;
+  float: left;
+  width: 30%;
+}
+.custom-bg-4 {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 5%;
+  margin-right: 60px;
+  float: left;
+  width: 30%;
+}
+
+.custom-bg-5 {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 5%;
+  margin-right: 60px;
+  float: left;
+  width: 30%;
+}
+
+.custom-bg-6 {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 5%;
+  float: left;
+  width: 30%;
+}
+h3 {
+  text-align: center;
+  font-size: 32px;
+}

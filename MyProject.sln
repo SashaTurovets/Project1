@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D488E3A5-5F0A-4291-A70B-3A663CF00A28}"
+	ProjectSection(SolutionItems) = preProject
+		about.html = about.html
+		breakfast.html = breakfast.html
+		dinner.html = dinner.html
+		index.html = index.html
+		css\sport.css = css\sport.css
+		sport.html = sport.html
+		css\style.css = css\style.css
+		supper.html = supper.html
+		tips.html = tips.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C01BC3B-4C2F-4985-A1CE-ACC9F8449BDA}
+	EndGlobalSection
+EndGlobal
